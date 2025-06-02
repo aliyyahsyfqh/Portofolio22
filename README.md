@@ -1,1 +1,1 @@
-![Foto Profil](images/profil.jpeg)
+![Foto Profil](profil.jpeg)
